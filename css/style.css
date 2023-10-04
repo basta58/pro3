@@ -496,7 +496,7 @@
 
 .numbers {
     position: relative;
-    background-image: url(../images/course-1.jpg);
+    background-image: url(../Images/course-1.jpg);
     height:350px;
     background-size: cover;
     background-attachment: fixed;
@@ -610,7 +610,7 @@
 /* ///////////////////////////////////////// 9- Testimnial Section//////////////////////////////////////////////////////////////// */
 .testimonial {
     position: relative;
-    background-image: url(../images/i.jpg);
+    background-image: url(../Images/i.jpg);
     background-attachment: fixed;
     background-size: cover;
     height: 350px;
